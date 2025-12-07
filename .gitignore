@@ -1,0 +1,4 @@
+.DS_Store
+secret.txt
+build/
+env/
